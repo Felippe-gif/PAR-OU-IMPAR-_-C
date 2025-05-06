@@ -1,4 +1,4 @@
-<h1 align="center">  PROJETOS EM LINGUAGEM C </h1>
+<h1 align="center">  PAR OU IMPAR </h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
